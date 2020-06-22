@@ -7,6 +7,9 @@
 *Visualised data for intuition.
 
 
+![__IMAGE__](https://github.com/harshalstomp/COVID-19-India-Tracker/blob/master/Screenshot%20(46).png)
+
+
 ## SOURCE - [COVID19INDIA.ORG](https://www.covid19india.org/)
 ### [API LINK](https://api.covid19india.org/)
 
