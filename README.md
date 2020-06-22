@@ -8,3 +8,6 @@
 
 
 ## SOURCE - [COVID19INDIA.ORG](https://www.covid19india.org/)
+### [API LINK](https://api.covid19india.org/)
+
+__This is what the lockdown made me do xD__
